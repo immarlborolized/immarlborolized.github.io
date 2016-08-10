@@ -4,3 +4,4 @@ markdown: kramdown
 url: http://immarlborolized.github.io
 title: immarlborolized
 paginate: 8
+highlighter: rouge
